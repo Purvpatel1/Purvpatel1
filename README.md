@@ -79,13 +79,6 @@ A serene, animated wellness app for breathing exercises, mood tracking on a 2D e
 
 <br>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Purvpatel1&theme=dracula&hide_border=true&background=0F172A&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6" />
-</p>
-
-<br>
 
 ## 🌱 Currently
 
