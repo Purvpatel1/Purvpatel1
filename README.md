@@ -1,7 +1,7 @@
 <!-- ========================= BANNER ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:14B8A6&height=230&section=header&text=Purv%20Patel&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20Student%20•%20Developer%20•%20AI%20Enthusiast&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:14B8A6&height=230&section=header&text=Purv%20Patel&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20Student%20•%20Developer%20•%20AI%20Enthusiast&descAlignY=58"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Purv Patel</h1>
@@ -22,11 +22,11 @@ Information Technology Student • Developer • AI Enthusiast
 
 🏫 **SVKM's Shri Bhagubhai Mafatlal Polytechnic & College of Engineering**
 
-📍 Mumbai, India
+📍 **Mumbai, India 🇮🇳**
 
-💻 Passionate about Software Development, Artificial Intelligence and Full Stack Development.
+💻 Passionate about **Software Development, Artificial Intelligence and Full Stack Development.**
 
-🚀 Currently exploring
+🚀 Currently exploring:
 
 - Artificial Intelligence
 - Machine Learning
@@ -34,7 +34,7 @@ Information Technology Student • Developer • AI Enthusiast
 - Prompt Engineering
 - Backend Development
 
-🏆 I enjoy building practical projects and participating in hackathons.
+🏆 I enjoy building practical projects, participating in hackathons and continuously learning new technologies.
 
 ---
 
@@ -42,7 +42,7 @@ Information Technology Student • Developer • AI Enthusiast
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,react,nodejs,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,react,nodejs,git,github,vscode&perline=6"/>
 
 </p>
 
@@ -50,66 +50,84 @@ Information Technology Student • Developer • AI Enthusiast
 
 # 📚 Currently Learning
 
-```text
-✔ React.js
-✔ Node.js
-✔ Artificial Intelligence
-✔ Machine Learning
-✔ Data Structures & Algorithms
-✔ Computer Vision
-```
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 Advanced React.js & Node.js
+- 📊 Data Structures & Algorithms
+- 👁️ Computer Vision
+- ⚙️ Backend Development
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Current Focus
 
-<p align="center">
+<table align="center">
+<tr>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Purvpatel1&show_icons=true&theme=tokyonight&hide_border=true"/>
+<td width="50%">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purvpatel1&layout=compact&theme=tokyonight&hide_border=true"/>
+### 💻 Development
 
-</p>
+- React.js
+- Node.js
+- Full Stack Development
 
----
+</td>
 
-# 🔥 GitHub Streak
+<td width="50%">
 
-<p align="center">
+### 🤖 Artificial Intelligence
 
-<img src="https://streak-stats.demolab.com?user=Purvpatel1&theme=tokyonight&hide_border=true"/>
+- Machine Learning
+- Computer Vision
+- Prompt Engineering
 
-</p>
+</td>
 
----
+</tr>
 
-# 📈 Contribution Graph
+<tr>
 
-<p align="center">
+<td width="50%">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Purvpatel1&theme=tokyo-night&hide_border=true"/>
+### 📚 Learning
 
-</p>
+- Data Structures & Algorithms
+- Backend Development
+- Git & GitHub
 
----
+</td>
 
-# 🏆 GitHub Trophies
+<td width="50%">
 
-<p align="center">
+### 🎯 Goals
 
-<img src="https://github-profile-trophy.vercel.app/?username=Purvpatel1&theme=tokyonight&no-frame=true&column=4"/>
+- Build impactful projects
+- Participate in Hackathons
+- Contribute to Open Source
 
-</p>
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 # 🌟 What I'm Working On
 
-- 🚀 AI & Machine Learning Projects
-- 💻 Full Stack Web Development
-- 🤖 Hackathon Projects
+- 🚀 AI-powered Applications
+- 🌐 Full Stack Web Development
+- 💡 Hackathon Projects
 - 📚 Strengthening DSA
 - 🔍 Exploring Open Source
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Purvpatel1&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
@@ -145,8 +163,12 @@ Information Technology Student • Developer • AI Enthusiast
 
 <p align="center">
 
-> *"First, solve the problem. Then, write the code."*
+<i>"First, solve the problem. Then, write the code."</i>
 
-**Happy Coding! 🚀**
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:14B8A6,100:312E81"/>
 
 </p>
